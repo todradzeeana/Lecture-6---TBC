@@ -78,6 +78,7 @@ h2 {
 	background: #FFF;
 	margin-left: 50px;
 	display: inline-block;
+	display: flex;
 }
 .es {
 	color: #8A8787;
@@ -94,7 +95,6 @@ h2 {
 .clock {
 	width: 16px;
 	height: 16px;
-	display: inline-block;
 	margin-left: 30px ;
 	vertical-align: middle;
 }
@@ -105,7 +105,6 @@ h2 {
 	font-style: normal;
 	font-weight: 700;
 	line-height: normal;
-	display: inline-block;
 	margin-left: 10px;
 }
 .beach {
@@ -132,7 +131,6 @@ h2 {
 	font-style: normal;
 	font-weight: 700;
 	line-height: normal;
-	display: inline-block;
 	margin-left: 10px;
 }
 .s-2 {
@@ -140,4 +138,66 @@ h2 {
 	padding: 20px;
 	background: #FFF;
 	
+}
+.kias {
+		width: 362px;
+	height: 171px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+	margin-left: 50px;
+	display: flex;
+}
+
+.gd {	
+  color: #8A8787;
+	font-family: Roboto;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+}
+.sj {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+}
+
+.photosect {
+	margin: 100px 0;
+}
+.wrapper {
+	display: inline-block;
+	position: relative;
+}
+
+
+h4 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-family: Roboto;
+	color: #FFF;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.small, .tye {
+	width: 362px;
+	height: 212px;
+	display: inline-block;
+	top: 0px;
+}
+footer {
+	margin-bottom: 20px;
+	width: 1440px;
+height: 201px;
+background: #243043;
 }
