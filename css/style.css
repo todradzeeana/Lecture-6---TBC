@@ -1,0 +1,143 @@
+header {
+	padding: 20px;
+background: #F1F1F1;
+}
+.logo {
+	width: 32px;
+	height: 32px;
+	fill: url(<path-to-image>) lightgray -22.611px -0.282px / 192.965% 100% no-repeat;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 30px;
+}
+
+li a {
+	margin-right: 20px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.sss {
+	margin-left: 50px;
+}
+.logo {
+	vertical-align: middle;
+}
+section {
+	background: #F1F1F1;
+	display: inline-block;
+}
+.s-1 {
+	padding: 20px;
+	background: #FFF;
+}
+h1 {
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 50px ;
+
+}
+h2 {
+  position: relative;
+  left: 30px;
+  top: 70px;
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 45px;
+}
+.rt {
+	margin-left: 50px;
+	width: 362px;
+	height: 186px;
+	flex-shrink: 0;
+	display: inline-block;
+
+}
+.container {
+	width: 362px;
+	height: 171px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+	margin-left: 50px;
+	display: inline-block;
+}
+.es {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding: 30px;
+	display: inline-block;
+	
+}
+
+.clock {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	margin-left: 30px ;
+	vertical-align: middle;
+}
+.lk {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-left: 10px;
+}
+.beach {
+	display: inline-block;
+	margin-left: 50px;
+	flex-shrink: 0;
+	width: 362px;
+	height: 186px;
+	margin-right: 20px;
+}
+.sos {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding: 30px;
+}
+.lol {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-left: 10px;
+}
+.s-2 {
+	background-color:#F1F1F1; ;
+	padding: 20px;
+	background: #FFF;
+	
+}
